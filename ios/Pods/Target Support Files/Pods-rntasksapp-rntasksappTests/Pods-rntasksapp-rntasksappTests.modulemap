@@ -1,0 +1,6 @@
+module Pods_rntasksapp_rntasksappTests {
+  umbrella header "Pods-rntasksapp-rntasksappTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
